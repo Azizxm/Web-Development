@@ -1,0 +1,20 @@
+html {
+    font-family: arial, sans-serif;
+  }
+  
+  /* Your CSS below here */
+p{ 
+    width: 200px;
+    height: 150px;
+    margin: auto;
+    text-align: center;
+    font-size: large;
+    background-color: red;
+    color: rgb(0, 255, 4);
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid black;
+    background: linear-gradient(to bottom right,rgb(0, 0, 0) ,rgb(255, 0, 0) 30%, rgb(126, 0, 0) 100%);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 2);
+
+}
